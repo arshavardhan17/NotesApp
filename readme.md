@@ -170,20 +170,6 @@ npm start
 
 ---
 
-## 🧑‍💻 Author
-
-**Arsha Vardhan**
-CSE Student @ KL University
-Focused on full-stack web development and UI/UX design.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## ⚡ Quick Start Summary
 
 ```bash
