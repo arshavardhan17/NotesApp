@@ -1,4 +1,3 @@
-````markdown
 # 📝 Notes App
 
 A **full-stack MERN Notes Application** that allows users to register, log in, create, update, delete, and search notes securely.  
@@ -46,6 +45,7 @@ Built with **React.js**, **Express.js**, **MongoDB**, and **JWT authentication**
 git clone https://github.com/<your-username>/notes-app.git
 cd notes-app
 ```
+
 ````
 
 ### 2️⃣ Install Dependencies
@@ -210,3 +210,4 @@ API runs on **[http://localhost:5000](http://localhost:5000)**
 
 
 ```
+````
