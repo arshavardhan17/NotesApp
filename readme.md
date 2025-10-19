@@ -34,6 +34,10 @@ Built with **React.js**, **Express.js**, **MongoDB**, and **JWT authentication**
 | Authentication | JWT (JSON Web Token)                        |
 | Security       | bcrypt.js, dotenv                           |
 
+---
+
+---
+
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
