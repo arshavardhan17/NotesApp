@@ -1,4 +1,4 @@
-```markdown
+````markdown
 # 📝 Notes App
 
 A **full-stack MERN Notes Application** that allows users to register, log in, create, update, delete, and search notes securely.  
@@ -34,48 +34,14 @@ Built with **React.js**, **Express.js**, **MongoDB**, and **JWT authentication**
 | Authentication | JWT (JSON Web Token)                        |
 | Security       | bcrypt.js, dotenv                           |
 
----
-
-## 📁 Folder Structure
-```
-
-root/
-├── backend/
-│ ├── models/
-│ │ ├── User.js
-│ │ └── Note.js
-│ ├── routes/
-│ │ ├── auth.js
-│ │ └── notes.js
-│ ├── middleware/
-│ │ └── auth.js
-│ ├── config/
-│ │ └── db.js
-│ └── server.js
-│
-└── frontend/
-├── src/
-│ ├── components/
-│ │ ├── Home.jsx
-│ │ ├── Navbar.jsx
-│ │ ├── Login.jsx
-│ │ ├── Register.jsx
-│ │ └── NoteModal.jsx
-│ ├── App.jsx
-│ └── index.js
-├── package.json
-└── tailwind.config.js
-
-````
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/<your-username>/notes-app.git
 cd notes-app
+```
 ````
 
 ### 2️⃣ Install Dependencies
