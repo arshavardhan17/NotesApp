@@ -46,8 +46,6 @@ git clone https://github.com/<your-username>/notes-app.git
 cd notes-app
 ```
 
-````
-
 ### 2️⃣ Install Dependencies
 
 #### Backend
@@ -210,4 +208,7 @@ API runs on **[http://localhost:5000](http://localhost:5000)**
 
 
 ```
-````
+
+```
+
+```
