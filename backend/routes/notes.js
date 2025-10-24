@@ -53,7 +53,7 @@ router.put("/:id", protect, async (req, res) => {
     if (!note) {
       return res.status(404).json({ message: "Note not found" });
     }
-
+    //NOT REQUIRED
     if (note.createdBy.toString() !== req.user._id.toString()) {
       return res.status(401).json({ message: "Not authorized" });
     }
