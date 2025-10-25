@@ -15,6 +15,7 @@ const Login = ({ setUser }) => {
         email,
         password,
       });
+      //you get token from Backend Store it in local storage
       localStorage.setItem("token", data.token);
       setUser(data);
       navigate("/");
